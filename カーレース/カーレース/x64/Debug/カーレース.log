@@ -1,0 +1,4 @@
+﻿  carRace.cpp
+C:\Users\stbq4\source\repos\ゲーム開発\カーレース\carRace.cpp(163,32): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\stbq4\source\repos\ゲーム開発\カーレース\carRace.cpp(183,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  カーレース.vcxproj -> C:\Users\stbq4\source\repos\ゲーム開発\カーレース\x64\Debug\カーレース.exe
